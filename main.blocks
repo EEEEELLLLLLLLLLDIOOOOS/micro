@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_gesture_event" id="Sb0ew*xudFUVdH^K)7`4" x="0" y="0"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="Hiu,7e=c(DH.!XI2d~a{"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="$gWP1p`hz:lJ.1w77e(`" x="312" y="8"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_number" id="?gGwU[[O3J5O_:[@C!XJ"><value name="number"><shadow type="math_number" id="z;Fyj*n#[JnFt7f8qj9_"><field name="NUM">8</field></shadow></value></block></statement></block><block type="device_gesture_event" id="XR9$6eQ)`ziP5BcGB#DM" x="48" y="96"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="7Z}/)B7-cu8,LB:[(Q4["><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field></block></statement></block><block type="device_forever" id="ZSS~`TEDzt%EJ~T651p%" x="361" y="126"><statement name="HANDLER"><block type="device_show_number" id="TTjW|3Bc^{){9}ln{%KG"><value name="number"><shadow type="math_number" id=":a+czUO1Obzv)#m:j|i-"><field name="NUM">7</field></shadow></value><next><block type="device_pause" id="u-vGsG/^#AV[/y(PJXVO"><value name="pause"><shadow type="timePicker" id="GzlWKnuI{h=A,qJ(;T)X"><field name="ms">200</field></shadow></value><next><block type="device_show_number" id="+,_zq6|L8fmji+8obKy1"><value name="number"><shadow type="math_number" id="EuGq_H;F.)#hjbUixI+Z"><field name="NUM">909</field></shadow></value><next><block type="device_show_leds" id="*;om~h_RP3nBTiq8#}5S"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # # # # # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_print_message" id=";G#k.yf=J9%*.`UZ_GeK"><value name="text"><shadow type="text" id="n(*@P$]^HI_Xj%Sactx_"><field name="TEXT">TERRANATOR LA BESTIA MAS SALVAJE DE LA JUNGLA</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="|Z6~!z%~e/G1)N[3J$#^" x="101" y="169"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_number" id="vInj?_BwNOmB({3-Vt:?"><value name="number"><shadow type="math_number" id="~JM4n](rp/22Od]@!BiK"><field name="NUM">7</field></shadow></value></block></statement></block><block type="pxt-on-start" id="LidD1fYBt^d5_*W5)[eO" x="104" y="169"><statement name="HANDLER"><block type="device_show_number" id="zr@Q*3{}9Zr2^T1s0|KH"><value name="number"><shadow type="math_number" id="7:Id.mCsPK=ukBJ5C8d4"><field name="NUM">7</field></shadow></value><next><block type="device_pause" id="RF.5P;#97BCnjhyn86Ru"><value name="pause"><shadow type="timePicker" id="5v[qB=@ziobP.JN[/iNR"><field name="ms">200</field></shadow></value><next><block type="device_show_number" id="D]:ONfWl:Sk)}RUqXcKc"><value name="number"><shadow type="math_number" id="%a74Xm#{v?nY-Mv[#ed2"><field name="NUM">909</field></shadow></value><next><block type="device_show_leds" id="I8Z~4v!{m#I5?6Ci!/Zc"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # # # # # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_print_message" id="BH].p/_vcMY^CEig{pTG"><value name="text"><shadow type="text" id="uqTC|`QbAJ@%6#teSj!*"><field name="TEXT">TERRANATOR LA BESTIA MAS SALVAJE DE LA JUNGLA</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
